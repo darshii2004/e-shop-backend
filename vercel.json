@@ -15,7 +15,7 @@
     ],
     "functions": {
         "controller/*.js": {
-            "maxDuration": 50
+            "maxDuration": 50 
         }
     }
 }
